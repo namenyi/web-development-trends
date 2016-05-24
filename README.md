@@ -2,7 +2,7 @@
 
 Author: David Namenyi  (Naményi Dávid)
 
-[LinkedIn](https://www.linkedin.com/in/namenyidavid) | [Twitter](https://twitter.com/NamenyiDavid) | [AboutMe](about.me/namenyidavid)
+[LinkedIn](https://www.linkedin.com/in/namenyidavid) | [Twitter](https://twitter.com/NamenyiDavid) | [AboutMe](https://about.me/namenyidavid)
 
 ---
 
