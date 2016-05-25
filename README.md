@@ -6,6 +6,10 @@ Read it here: http://davidnamenyi.com/web-development-trends/
 
 > In this paper my goal is to demonstrate the evolution and the current situation and challenges of web development, showcase a modern day web developer’s set of tools and scrutinize the technology shifts’ effects on businesses.
 
+##### An example figure:
+![Web search interest over time for PHP frameworks](http://davidnamenyi.com/web-development-trends/images/image15.png)
+
+
 ---
 ### Author: David Namenyi 
 (Naményi Dávid)
